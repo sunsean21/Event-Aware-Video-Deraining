@@ -34,7 +34,7 @@ torchvision 0.10.1
 
 ## RainVID&SS
 
-It will be made publicly available in the future. To follow the silence and anonymity policy, we have not shared it online.
+It is available in https://pan.baidu.com/s/1zuGkbKzQjnliujqDMHl1og?pwd=q0r1#list/path=%2Fdataset_event_derain.
 
 ## Event
 
