@@ -1,0 +1,1 @@
+python test_mpevnet.py --logdir logs/mpevNet/ --save_path output/mpevnet/ --model_epoch 20 --gpu_id 0 --recurrent_iter 1,2,3 --dim_feature 32 > output/mpevnet/NTURain/s7_123_e20.txt

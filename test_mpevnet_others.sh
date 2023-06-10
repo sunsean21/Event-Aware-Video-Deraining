@@ -1,0 +1,1 @@
+python test_mpevnet_others.py --logdir ./logs/mpevnet/ --gpu_id 0 --recurrent_iter 1,2,3 --dim_feature 32 --model_epoch 6 --save_path output/others/mpevNet/out_s7_i123_100_sau_sall_RainVIDSS_inchn16_loss2_10_e
