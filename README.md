@@ -6,8 +6,11 @@
 # Requirment
 
 Python 3.8 (previous version should be fine as well)
+
 Numpy
+
 PyTorch 1.9 (previous version should be fine as well)
+
 torchvision 0.10.1
 
 # Data preparation
@@ -20,6 +23,7 @@ torchvision 0.10.1
 
 3. The extracted files should have the following structure:
 
+```
 ├── Dataset_Testing_RealRain
 
     ├── ra1_Rain
@@ -47,6 +51,8 @@ torchvision 0.10.1
     ...
 
     ├── t8_Rain_03 
+
+```
 
 
 ## RainVID&SS
