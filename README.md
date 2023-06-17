@@ -1,5 +1,7 @@
 
-# Code for ``Event-Aware Video Deraining via Multi-Patch Progressive Learning``
+# Event-Aware Video Deraining via Multi-Patch Progressive Learning
+
+[[Paper]](https://ieeexplore.ieee.org/document/10122854) 
 
 # Requirment
 
@@ -17,20 +19,35 @@ torchvision 0.10.1
 2. Extract all clips from .rar files
 
 3. The extracted files should have the following structure:
+
 ├── Dataset_Testing_RealRain
+
     ├── ra1_Rain
+
     ...
+
     ├── rb3_Rain  
+
 ├── Dataset_Testing_Synthetic
+
     ├── a1_Rain
+
     ├── a1_GT
+
     ...
+
     ├── b4_Rain
+
     ├── b4_GT 
+
 ├── Dataset_Training_Synthetic
+
     ├── t1_Rain_01
+
     ...
+
     ├── t8_Rain_03 
+
 
 ## RainVID&SS
 
@@ -55,9 +72,11 @@ Or you can download the pre-generated event of NTURain in: https://pan.baidu.com
 2. Since we borrow the reimplementation of lightflownet3 from https://github.com/lhao0301/pytorch-liteflownet3 and https://github.com/NVIDIA/flownet2-pytorch, you should follow their step of installing correlation_package.
 
 3. run the code 
+
 ```
 bash train_mpevnet.sh
 ```
+
 If it is the first time to run the code, you should add "--preprocess" argument to get pre-processed .h5 file.
 
 # Test for NTURain
@@ -65,6 +84,7 @@ If it is the first time to run the code, you should add "--preprocess" argument 
 1. Modify the confiurations in test_mpevnet.sh
 
 2. run the code 
+
 ```
 bash test_mpevnet.sh
 ```
@@ -74,6 +94,21 @@ bash test_mpevnet.sh
 1. Modify the confiurations in test_mpevnet_others.sh
 
 2. run the code 
+
 ```
 bash test_mpevnet_others.sh
+```
+
+# BibTex
+
+```
+@ARTICLE{10122854,
+  author={Sun, Shangquan and Ren, Wenqi and Li, Jingzhi and Zhang, Kaihao and Liang, Meiyu and Cao, Xiaochun},
+  journal={IEEE Transactions on Image Processing}, 
+  title={Event-Aware Video Deraining via Multi-Patch Progressive Learning}, 
+  year={2023},
+  volume={32},
+  number={},
+  pages={3040-3053},
+  doi={10.1109/TIP.2023.3272283}}
 ```
