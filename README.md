@@ -21,8 +21,6 @@ PyTorch 1.9 (previous version should be fine as well)
 
 torchvision 0.10.1
 
-# Data preparation
-
 # Visual Results
 
 |    Models    |                     NTURain                       |                      RainVIDSS                       |  Real-World|
@@ -33,6 +31,8 @@ torchvision 0.10.1
 | MFGAN | [Google Drive](https://drive.google.com/file/d/1sRW2g3KnjlKAd2mXngiATBv1NDzmXbgT/view?usp=sharing) | [Google Drive](https://drive.google.com/file/d/1fP7bye3D24PzGjsL2O2XBrOEdc8ie9g8/view?usp=sharing) | [Google Drive](https://drive.google.com/file/d/1DYT8vlOVLsuspimOI5PDFpQIWXuiuxa2/view?usp=sharing) |
 | Ours | [Google Drive](https://drive.google.com/file/d/17sfbWY3c5Xdjaf34JNuMIIRiB8WXHzxi/view?usp=sharing) | [Google Drive](https://drive.google.com/file/d/16-dAVx2z8JXVcAPD1ZirnyWi47gEG-QX/view?usp=sharing) | [Google Drive]() |
 
+
+# Data preparation
 
 ## NTURain
 
