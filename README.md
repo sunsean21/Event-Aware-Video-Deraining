@@ -1,7 +1,7 @@
 
 # Event-Aware Video Deraining via Multi-Patch Progressive Learning
 
-[[Paper]](https://ieeexplore.ieee.org/document/10122854) 
+[[IEEE Paper]](https://ieeexplore.ieee.org/document/10122854) [Google Drive Paper](https://drive.google.com/file/d/19VseYjSmdTs_tKxJT1JISRJtB-MiIR60/view)
 
 # Requirment
 
