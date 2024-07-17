@@ -1,7 +1,14 @@
 
 # Event-Aware Video Deraining via Multi-Patch Progressive Learning
 
-[[IEEE Paper]](https://ieeexplore.ieee.org/document/10122854) [Google Drive Paper](https://drive.google.com/file/d/19VseYjSmdTs_tKxJT1JISRJtB-MiIR60/view)
+[![paper](https://img.shields.io/badge/IEEE-paper-blue.svg)](https://ieeexplore.ieee.org/document/10122854)
+[![google](https://img.shields.io/badge/Google-paper-red.svg)](https://drive.google.com/file/d/19VseYjSmdTs_tKxJT1JISRJtB-MiIR60/view)
+[![Closed Issues](https://img.shields.io/github/issues-closed/sunsean21/Event-Aware-Video-Deraining)](https://github.com/sunsean21/Event-Aware-Video-Deraining/issues?q=is%3Aissue+is%3Aclosed) 
+[![Open Issues](https://img.shields.io/github/issues/sunsean21/Event-Aware-Video-Deraining)](https://github.com/sunsean21/Event-Aware-Video-Deraining/issues) 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsunsean21%2FEvent-Aware-Video-Deraining%2F&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+[RainVID&SS Dataset](https://github.com/sunsean21/Event-Aware-Video-Deraining?tab=readme-ov-file#rainvidss)
+[Visual Results](https://github.com/sunsean21/Event-Aware-Video-Deraining?tab=readme-ov-file#visual-results)
 
 # Requirment
 
@@ -55,7 +62,7 @@ torchvision 0.10.1
 ```
 
 
-## RainVID&SS
+## RainVID&SS <span id="jump">跳转到的地方</span>
 
 It is available in [Baidu Disk](https://pan.baidu.com/s/1zuGkbKzQjnliujqDMHl1og?pwd=q0r1#list/path=%2Fdataset_event_derain) or [Google Drive](https://drive.google.com/drive/folders/1uXlk7WuI1md_vYeXQJBm3ctgmziu3-xO?usp=sharing).
 
